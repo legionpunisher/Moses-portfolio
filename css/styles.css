@@ -47,3 +47,8 @@ body {
 h6 {
     font-size: x-large;
 }
+
+.work {
+    font-weight: bolder;
+    font-size: larger;
+}
