@@ -11,16 +11,18 @@ h1 {
 }
 
 .list {
-    margin: 20px;
-    padding: 50px;
-    border: 15px background-color: skyblue;
+    margin: 10px;
+    padding: 4px;
+    border: 6px solid brown;
     font-weight: bold;
     box-sizing: border-box;
+    background-color: rgb(34, 151, 34);
 }
 
 .hobbies {
     margin: 10px;
-    border: 2px;
+    border: 6px solid brown;
+    padding: 4px;
     background-color: rgb(34, 151, 34);
     box-sizing: border-box;
 }
@@ -40,4 +42,8 @@ img {
 body {
     background-image: url('../images/new.jpg');
     background-size: 100%;
+}
+
+h6 {
+    font-size: x-large;
 }
